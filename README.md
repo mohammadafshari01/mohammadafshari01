@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there, This is Mohammad <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 
-![MasterHead](https://www.dropbox.com/s/nu22jiyguc8leyt/banner.png?dl=0)
+![MasterHead](https://www.dropbox.com/s/nu22jiyguc8leyt/banner.png)
 
 
 <p align="center">
