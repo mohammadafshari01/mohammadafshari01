@@ -2,11 +2,11 @@
   <h1 align="center"><b>Hi there, This is Mohammad <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 
-![MasterHead](https://www.dropbox.com/s/nu22jiyguc8leyt/banner.png?dl=0)
+![MasterHead](https://theupcut.com/wp-content/uploads/2021/10/artificial-intellgence.jpg)
 
 
 <p align="center">
-<img src="https://www.dropbox.com/s/nu22jiyguc8leyt/banner.png?dl=0 alt="MasterHead" />
+<img src="https://theupcut.com/wp-content/uploads/2021/10/artificial-intellgence.jpg" alt="MasterHead" />
 </p>
 <br />
 
