@@ -9,9 +9,7 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught frontend developer since 2020 using ReactJS. a11y minded. Scrum & Agile inspired.</p>
-<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
-<p>From time to time I am contributing to open source to improve projects web accessibility.</p>
+<p align="center">Inquisitive, energetic computer science student, with a foundation in math and programming. I'm an enthusiast of AI and its applications in financial markets.</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
