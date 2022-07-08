@@ -1,9 +1,9 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Mohammad <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
 </p>
