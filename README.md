@@ -5,9 +5,9 @@
 <p align="center">
 <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white alt="Kaggle" /></a>&nbsp;
 
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt="Discord" /></a>&nbsp;
 
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail" /></a>&nbsp;
 
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
 
